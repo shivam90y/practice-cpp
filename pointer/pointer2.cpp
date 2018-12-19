@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    int var = 10;
+    int var = 20;
     int *ip;
     ip = &var;
     cout << "value of var variable";
